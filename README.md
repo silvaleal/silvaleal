@@ -3,7 +3,7 @@ use Developer;
 
 $nickname = "silvaleal";
 $languages = ["PHP", "Python"];
-$skills = ["SQL"];
+$skills = ["SQL", "LARAVEL"];
 $contact = "lealsilva.ctt@outlook.com";
 
 $developer = new Developer($nickname, $languages, $skills, $contact);
