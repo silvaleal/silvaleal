@@ -2,7 +2,7 @@
 use Developer;
 
 $nickname = "silvaleal";
-$languages = ["PHP", "Python"];
+$languages = ["PHP", "PYTHON"];
 $skills = ["SQL", "LARAVEL"];
 $contact = "lealsilva.ctt@outlook.com";
 
