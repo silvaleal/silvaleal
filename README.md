@@ -18,3 +18,9 @@ $developer = new Developer($nickname, $languages, $skills, $contact);
   <img width="12" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
 </div>
+<hr>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=silvaleal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
