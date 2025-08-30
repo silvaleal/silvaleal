@@ -1,3 +1,5 @@
+[packagist](https://packagist.org/packages/silvaleal/)
+
 ```php
 use Developer;
 
