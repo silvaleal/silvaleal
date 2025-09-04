@@ -5,7 +5,7 @@ use Developer;
 
 $nickname = "silvaleal";
 $languages = ["PHP", "PYTHON"];
-$skills = ["SQL", "LARAVEL"];
+$skills = ["SQL", "LARAVEL", "CODEIGNITER4"];
 $contact = "lealsilva.ctt@outlook.com";
 
 $developer = new Developer($nickname, $languages, $skills, $contact);
