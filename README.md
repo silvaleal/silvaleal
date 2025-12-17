@@ -1,4 +1,12 @@
-[portfolio](https://silvaleal.eu/) | [packagist](https://packagist.org/packages/silvaleal/) | [blog](https://blog.silvaleal.eu/)
+**Links**
+
+- [portfolio](https://silvaleal.eu/)
+
+**My Projects**
+
+- [xama11](https://github.com/xama11)
+
+<hr>
 
 ```php
 use Developer;
