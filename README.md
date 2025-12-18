@@ -1,6 +1,6 @@
 **Links**
 
-- [portfolio](https://silvaleal.eu/)
+- [Portfolio](https://silvaleal.eu/)
 
 <hr>
 
