@@ -2,10 +2,6 @@
 
 - [portfolio](https://silvaleal.eu/)
 
-**My Projects**
-
-- [xama11](https://github.com/xama11)
-
 <hr>
 
 ```php
