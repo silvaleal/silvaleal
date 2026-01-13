@@ -1,6 +1,6 @@
 **Links**
 
-- [Portfolio](https://silvaleal.vercel.app/)
+- [Portfolio](https://silvaleal.vercel.app/) | [Blog](https://silvaleal.vercel.app/blog)
 
 <hr>
 
