@@ -1,18 +1,17 @@
 **Links**
 
-- [Portfolio](https://silvaleal.vercel.app/) | [Blog](https://silvaleal.vercel.app/blog)
+- [Portfolio](https://silvaleal.vercel.app/)
 
 <hr>
 
 ```php
 use Developer;
 
-$nickname = "silvaleal";
 $languages = ["PHP", "PYTHON"];
 $skills = ["SQL", "LARAVEL", "CODEIGNITER4"];
 $contact = "lealsilva.ctt@outlook.com";
 
-$developer = new Developer($nickname, $languages, $skills, $contact);
+$silvaleal = new Developer($languages, $skills, $contact);
 
 ```
 <div align="left">
