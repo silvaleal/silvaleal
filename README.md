@@ -1,7 +1,6 @@
 **Links**
 
 - [Portfolio](https://silvaleal.vercel.app/)
-- [Estudos (Notion)](https://www.notion.so/Estudos-2e011f8d9aad80f28b01d94ef4a78b11?source=copy_link)
 
 <hr>
 
